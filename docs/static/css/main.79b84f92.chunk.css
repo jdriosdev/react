@@ -1,0 +1,2 @@
+h1{margin-top:20px}.card{color:#000;background-color:#000}.card-img-top{-webkit-filter:blur(5px);filter:blur(5px);transition:.5s}.card:hover .card-img-top{-webkit-filter:blur(0);filter:blur(0)}.card:hover .badge,.card:hover .card-text,.card:hover .card-title{opacity:0}.card-img-overlay{display:flex;flex-direction:column;justify-content:space-between;align-items:center;transition:.5s}.card-title{font-weight:600}.card-text,.card-title{text-shadow:0 0 5px #fff}
+/*# sourceMappingURL=main.79b84f92.chunk.css.map */
